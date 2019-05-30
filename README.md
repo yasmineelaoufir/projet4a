@@ -19,6 +19,3 @@ yet the choice of the optimal contract needs to be discussed according to the ne
 
 ## Acknowledgments 
 Special thanks to Anthony Reveillac and Jessica Martin for their help and guidance throughout this project.
-
-
-Keywords: Carbon emissions, incentive policy, Principal-Agent problem, Moral hazard, optimization.
