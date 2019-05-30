@@ -1,1 +1,1 @@
-Le projet final à voir est celui nommé "Projet_30_mai", les précédents sont seulement 
+Vous trouverez ci-dessous le notebook final de notre projet. Les anciennes versions ont été supprimées. 
